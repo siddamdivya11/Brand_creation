@@ -1,0 +1,28 @@
+# Python and Backend
+.env
+.venv
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+instance/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# IDE
+.idea/
+.vscode/
+
+# Temporary Files
+temp_bizforge*
+*.log
+*.zip
+Bizforge document.docx
+
+# Mac OS
+.DS_Store
